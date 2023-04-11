@@ -13,6 +13,7 @@
                Margin="30"
             >здравствуйте вы сможете просмотреть врачей 
         </Label>
+        <Image Source="/image/logo.png" Margin="504,110,31,140"/>
 
         <Label HorizontalAlignment="Center" Margin="50">
             и так же писать коментарии про них

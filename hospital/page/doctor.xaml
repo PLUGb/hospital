@@ -10,14 +10,16 @@
     <Grid>
         <Label HorizontalAlignment="Center"
                Margin="30"
-            > здравствуйте здесь вы можете вести историю болезней а
+            >здравствуйте здесь вы можете вести историю болезней а
         </Label>
-        
+
         <Label HorizontalAlignment="Center" Margin="50">так же добавлять свою анкету</Label>
+
+        <Image Source="/image/logo.png" Margin="504,110,31,140"/>
 
         <StackPanel HorizontalAlignment="Center" 
                     VerticalAlignment="Center">
-            
+
             <Button Margin="10" Click="Button_Click_4"
                 >
                 история болезней

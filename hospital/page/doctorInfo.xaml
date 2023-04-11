@@ -14,6 +14,9 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="0.1*"/>
         </Grid.RowDefinitions>
+
+        <Image Source="/image/logo.png" Height="69" VerticalAlignment="Center" Margin="-3,0,683,0" />
+
         <Button 
            Width="120"
             Height="35" 

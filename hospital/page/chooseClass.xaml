@@ -6,7 +6,7 @@
       xmlns:local="clr-namespace:hospital.page"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="chooseClass">
+      Title="Регестрация врача">
 
     <Page.Resources>
         <SolidColorBrush x:Key="Button.MouseOver.Background" Color="#FFBEE6FD"/>
